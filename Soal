@@ -1,0 +1,5 @@
+Tuliskan istilah yang kamu temui
+1.	Branch		:Cabang bebas dari sebuah commit, jadi kita bisa edit versi lainnya
+2.	Pull Request	:Menerima commit dari Github
+3.	Merge		:Menggabungkan branch yang ingin digabungkan, jadi datanya kita gabung tapi dengan request
+4.	Conflict		:Memberi pilihan untuk memilih file yang ingin di gabungkan dari pull request
